@@ -65,14 +65,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Goldiman6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Stats%20and%20Contributions" height="180" alt="stats graph"  />
 </div>
 
-###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goldiman6/Goldiman6/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Goldiman6/Goldiman6/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Goldiman6/Goldiman6/output/pacman-contribution-graph.svg">
-</picture>
-
-###
